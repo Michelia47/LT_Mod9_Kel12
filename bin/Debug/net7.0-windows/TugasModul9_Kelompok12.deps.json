@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TugasModul9_Kelompok12/1.0.0": {
+        "runtime": {
+          "TugasModul9_Kelompok12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TugasModul9_Kelompok12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
